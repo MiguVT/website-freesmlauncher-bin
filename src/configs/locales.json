@@ -13,5 +13,10 @@
     "code": "ua",
     "name": "Українська",
     "flag": "\uD83C\uDDFA\uD83C\uDDE6"
+  },
+  {
+    "code": "es",
+    "name": "Español",
+    "flag": "\uD83C\uDDEA\uD83C\uDDF8"
   }
 ]

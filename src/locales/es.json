@@ -1,0 +1,153 @@
+{
+  "Info": {
+    "locale": "es"
+  },
+  "Translations": {
+    "general": {
+      "home": "Inicio",
+      "download": "Descargar",
+      "about": "Acerca de",
+      "seconds-short": "s",
+      "minutes-short": "min",
+      "yes": "Sí",
+      "no": "No"
+    },
+    "pages": {
+      "downloads": {
+        "title": "Descargas",
+        "description": "Descarga Freesm Launcher para tu plataforma de forma gratuita, sin anuncios, sin virus, sin SMS, sin registro, sin llamadas, sin espías. ¡O no lo hagas, tú decides!"
+      },
+      "about": {
+        "title": "Acerca de",
+        "description": "Descubre más sobre el equipo de desarrollo de Freesm Launcher y todos los colaboradores aquí."
+      },
+      "successful-login": {
+        "title": "Inicio de sesión exitoso",
+        "description": "¡Has iniciado sesión en Freesm Launcher con tu cuenta!"
+      },
+      "not-found": {
+        "title": "¡Ups!",
+        "subtitle": "Página no encontrada",
+        "description": "La página que buscas puede haber sido eliminada, renombrada o estar temporalmente no disponible.",
+        "go-to-home": "Ir a la página de inicio"
+      }
+    },
+    "successful-login": {
+      "title": "Inicio de sesión exitoso",
+      "description": "Has iniciado sesión en Freesm Launcher con tu cuenta. Ahora puedes cerrar esta ventana. ¡Que lo disfrutes!"
+    },
+    "navbar": {
+      "home": "Inicio",
+      "downloads": "Descargar",
+      "about": "Acerca de",
+      "other": "Otros",
+      "change-language": "Cambiar idioma"
+    },
+    "footer": {
+      "short-description": "Otra forma de jugar Minecraft gratis.",
+      "about": {
+        "title": "Acerca de",
+        "links": {
+          "contribute": "Contribuir",
+          "about": "Acerca de",
+          "download": "Descargar"
+        }
+      },
+      "community": {
+        "title": "Comunidad",
+        "links": {
+          "telegram-channel": "Canal de Telegram",
+          "telegram-chat": "Chat de Telegram",
+          "follow-on-github": "Seguir en Github"
+        }
+      },
+      "project": {
+        "title": "Proyecto",
+        "links": {
+          "source-code": "Código fuente",
+          "github-issues": "Issues de Github"
+        }
+      }
+    },
+    "downloads": {
+      "title": "Descargas",
+      "description": "Descarga Freesm Launcher para tu plataforma específica.",
+      "packages-for": "Paquetes para",
+      "error": "Error:",
+      "loading": "Obteniendo datos...",
+      "getting-platform": "Obteniendo tu plataforma... ¡También puedes seleccionarla manualmente arriba!",
+      "try-to-refresh": "Intenta recargar la página.",
+      "requires": "requiere"
+    },
+    "about": {
+      "title": "Acerca de",
+      "description": "Creamos Freesm Launcher para hacer posible jugar Minecraft con las comodidades que ofrece Prism Launcher, sin necesitar una cuenta en línea.",
+      "maintainers": "Mantenedores",
+      "contributors": "Colaboradores"
+    },
+    "hero": {
+      "title": "Descarga Freesm Launcher para",
+      "description": "Freesm Launcher es un launcher personalizado para Minecraft que te permite jugar con una cuenta sin conexión sin ninguna restricción.",
+      "download-now": "Descargar ahora"
+    },
+    "features": {
+      "open-source": {
+        "title": "Código abierto",
+        "description": "Freesm Launcher es un fork de código abierto de Prism Launcher. Todo el código del launcher está disponible bajo la licencia GPL-3.0."
+      },
+      "drm-free": {
+        "title": "Sin DRM",
+        "description": "Juega Minecraft sin ninguna restricción, incluso si no tienes una cuenta en línea."
+      },
+      "performance": {
+        "title": "Rendimiento",
+        "description": "Freesm Launcher tiene una velocidad increíble y solo ocupa 30 megabytes de RAM gracias al toolkit Qt."
+      },
+      "customization": {
+        "title": "Personalización",
+        "description": "Freesm Launcher tiene su propio tema con colores catppuccin e íconos Microsoft Fluent. Además, el launcher permite personalizar el menú, admite temas y fondos personalizados (incluso gifs)."
+      }
+    },
+    "launcher": {
+      "windstone_": "windstone_",
+      "hand7s": "hand7s",
+      "kaeeraa": "kaeeraa",
+      "so5iso4ka": "so5iso4ka",
+      "m3oweezed": "m3oweezed",
+      "no-selection": "Ninguna instancia seleccionada",
+      "time-played": "Tiempo jugado",
+      "specific-time-played": "total jugado por",
+      "ungrouped": "Sin grupo",
+      "placeholder-group": "Marcadores",
+      "confirm-deletion": {
+        "title": "Confirmar eliminación",
+        "description": "Estás a punto de eliminar «{instanceName}».\nEsto puede ser permanente y eliminará completamente la instancia.\n\n¿Estás seguro?"
+      },
+      "add-instance": "Agregar instancia",
+      "folders": "Carpetas",
+      "settings": "Configuración",
+      "help": "Ayuda",
+      "update": "Actualizar",
+      "news-toolbar": "Barra de noticias",
+      "instance-toolbar": "Barra de instancias",
+      "status-bar": "Barra de estado",
+      "lock-toolbars": "Bloquear barras",
+      "no-default-account": "Sin cuenta predeterminada",
+      "manage-accounts": "Gestionar cuentas...",
+      "more-news": "Más noticias",
+      "instance": {
+        "launch": "Iniciar",
+        "kill": "Terminar",
+        "edit": "Editar",
+        "change-group": "Cambiar grupo",
+        "folder": "Carpeta",
+        "export": "Exportar",
+        "copy": "Copiar",
+        "delete": "Eliminar",
+        "create-shortcut": "Crear acceso directo",
+        "rename": "Renombrar",
+        "change-icon": "Cambiar ícono"
+      }
+    }
+  }
+}
