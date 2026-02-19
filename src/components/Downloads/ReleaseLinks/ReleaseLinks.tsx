@@ -72,6 +72,10 @@ export default function ReleaseLinks({ platform }: { platform: string; }) {
                 name: "pkgbuild - Debian"
             });
             currentBuilds?.unshift({
+                browser_download_url: "https://aur.archlinux.org/packages/freesmlauncher-bin",
+                name: "pkgbuild - Arch Linux (-bin)"
+            });
+            currentBuilds?.unshift({
                 browser_download_url: "https://aur.archlinux.org/packages/freesmlauncher",
                 name: "pkgbuild - Arch Linux"
             });
